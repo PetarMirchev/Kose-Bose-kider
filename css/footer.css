@@ -1,0 +1,11 @@
+.footer {
+    text-align: center; /* Center the text in the footer */
+  }
+
+  .copyright {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+  }
+
+  .border-bottom {
+    border-bottom: 1px solid #fff;
+  }
