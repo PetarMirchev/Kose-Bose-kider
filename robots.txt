@@ -1,0 +1,17 @@
+Sitemap: https://xxxxxxxxx/sitemap.xml
+
+User-agent: *
+Allow: /
+Disallow: 
+
+
+User-agent: Googlebot
+Allow: /
+
+
+User-agent: googlebot-images
+allow: /
+
+
+User-agent: googlebot-news
+allow: /
