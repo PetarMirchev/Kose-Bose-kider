@@ -1,17 +1,16 @@
 Sitemap: https://xxxxxxxxx/sitemap.xml
 
 User-agent: *
-Allow: /
 Disallow: 
 
 
 User-agent: Googlebot
-Allow: /
+Disallow: 
 
 
 User-agent: googlebot-images
-allow: /
+Disallow: 
 
 
 User-agent: googlebot-news
-allow: /
+Disallow: 
