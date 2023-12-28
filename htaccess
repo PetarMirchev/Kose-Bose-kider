@@ -1,0 +1,5 @@
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^(www\.)?kose-bose\.eu$
+RewriteRule (.*) https://kose-bose.eu/$1 [R=301,L]
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
