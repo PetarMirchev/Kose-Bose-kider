@@ -1,8 +1,9 @@
-Sitemap: https://xxxxxxxxx/sitemap.xml
 
 User-agent: *
 Disallow: 
 
+User-agent: Bingbot
+Disallow: 
 
 User-agent: Googlebot
 Disallow: 
@@ -14,3 +15,5 @@ Disallow:
 
 User-agent: googlebot-news
 Disallow: 
+
+Sitemap: https://kose-bose.eu/sitemap.xml
