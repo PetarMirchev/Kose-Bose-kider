@@ -1,19 +1,6 @@
-
 User-agent: *
+Allow: /
 Disallow: 
 
-User-agent: Bingbot
-Disallow: 
-
-User-agent: Googlebot
-Disallow: 
-
-
-User-agent: googlebot-images
-Disallow: 
-
-
-User-agent: googlebot-news
-Disallow: 
 
 Sitemap: https://kose-bose.eu/sitemap.xml
