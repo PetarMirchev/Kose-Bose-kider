@@ -101,7 +101,7 @@ h6,
 .navbar .navbar-nav .nav-link {
     padding: 30px 15px;
     color: var(--dark);
-    font-weight: 500;
+    font-weight: 600;
     outline: none;
 }
 
@@ -109,6 +109,7 @@ h6,
 .navbar .navbar-nav .nav-link.active {
     color: var(--primary);
 }
+
 
 .navbar.sticky-top {
     top: -100px;
