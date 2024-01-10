@@ -1,4 +1,4 @@
-Sitemap: https://kose-bose.eu/sitemap.xml
+Sitemap: https://www.kose-bose.eu/sitemap.xml
 
 User-agent: *
 Allow: /
